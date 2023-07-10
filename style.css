@@ -1,0 +1,92 @@
+body {
+    margin: 0;
+    background: #ECFDF5;
+    background-size: cover;
+  }
+  
+  h2 {
+    position: absolute;
+    width: 332px;
+    height: 80px;
+    margin: 115px 0 0 52px;
+    font-family: 'Karla', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 40px;
+    letter-spacing: -0.05em;
+    color: #2B283A;
+  }
+  
+  span {
+    color: #10B981;
+  }
+  
+  p {
+    position: absolute;
+    width: 372px;
+    height: 28px;
+    margin: 205px 0 0 52px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: #6B7280;
+  }
+  
+  button {
+    /* display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center; */
+    padding: 9px 17px 9px 15px;
+    gap: 12px;
+    position: absolute;
+    width: 191px;
+    height: 42px;
+    margin: 284px 0 0 52px;
+    background: #10B981;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+  }
+  
+  hr {
+    position: absolute;
+    width: 446px;
+    height: 0px;
+    margin: 361px 0 0 52px;
+    border: 1px solid #D5D4D8;
+  }
+  
+  #password-el1 {
+    position: absolute;
+    width: 211px;
+    height: 39px;
+    background: #273549;
+    border-radius: 6px;
+    margin: 396px 0 0 52px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 16px;
+    line-height: 32px;
+    text-align: center;
+    color: #5DEF92;
+  }
+
+  #password-el2 {
+    position: absolute;
+    width: 211px;
+    height: 39px;
+    margin: 396px 0 0 287px;
+    background: #273549;
+    border-radius: 6px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 32px;
+    text-align: center;
+    color: #5DEF92;
+  }  
